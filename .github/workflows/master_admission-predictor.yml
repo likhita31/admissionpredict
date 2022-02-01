@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ADMISSION-PREDICTOR'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C777D7B01915400E8083240B019329AB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8BF71564B102486281F06796E105F9E7 }}
